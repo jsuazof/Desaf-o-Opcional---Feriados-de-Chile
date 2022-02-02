@@ -9,7 +9,7 @@ $(() => {
       //console.log(data);
        feriadosChile.html("");
        data.data.forEach((item) => {
-          //console.log(data.data);
+          
           feriadosChile.append(`
           <thead>
               <tr>
